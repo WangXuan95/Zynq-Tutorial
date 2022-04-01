@@ -1,7 +1,8 @@
 
-ZedBoard Vivado+PetaLinux 系统搭建教程
+Vivado+PetaLinux 系统搭建教程
 ===========================
 
+—— 以 **[ZedBoard](http://zedboard.org/product/zedboard)** 为例
 
 ## 概述
 
