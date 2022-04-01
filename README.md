@@ -1,6 +1,3 @@
-![docs](https://img.shields.io/badge/docs-passing-green.svg)
-![platform](https://img.shields.io/badge/platform-Vivado-blue.svg)
-
 
 ZedBoard Vivado+PetaLinux 系统搭建教程
 ===========================
@@ -21,13 +18,13 @@ ZedBoard Vivado+PetaLinux 系统搭建教程
     + SPI-Flash启动
 + 如何使用C语言编写Linux应用程序，把外设用起来，本教程提供2个示例：
     + GPIO流水灯示例
-    + CDMA内存数据搬移示例
+    + Central-DMA (CDMA) 内存数据搬移示例
 
-## 开始
+## 开始阅读
 
-请直接从《**Zedboard Vivado+PetaLinux 系统搭建教程.pdf**》开始阅读。
+请从《**Zedboard Vivado+PetaLinux 系统搭建教程.pdf**》开始阅读。
 
-该文档的目录：
+目录：
 
 + 概述
 + 准备工作
@@ -47,9 +44,8 @@ ZedBoard Vivado+PetaLinux 系统搭建教程
     + 测试串口
     + 测试以太网
     + 测试 GPIO
-    + 测试 CDMA
+    + 测试 Central-DMA (CDMA) 
 + 用PetaLinux制作QSPI-flash启动镜像
     + 制作QSPI-flash启动镜像
     + 烧写QSPI-flash
     + 从QSPI-flash启动
-+ 附录：SD卡启动时打印的LOG
